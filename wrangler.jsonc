@@ -1,5 +1,5 @@
 {
-  "name": "html-to-image-cf-test",
+  "name": "cf-html-to-image",
   "main": "./worker.js",
   "workers_dev": true,
   "compatibility_date": "2025-06-25",
